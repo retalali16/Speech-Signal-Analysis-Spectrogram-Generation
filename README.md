@@ -1,9 +1,5 @@
 # 🎵 Speech Signal Analysis & Spectrogram Generation
 
-> **Assignment 2 — Audio Signal Processing for Machine Learning**
-> Course: Zewail City of Science and Technology
-
----
 
 ## 📌 Overview
 
